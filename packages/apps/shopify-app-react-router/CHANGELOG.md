@@ -1,5 +1,11 @@
 # @shopify/shopify-app-react-router
 
+## 1.2.2
+
+### Patch Changes
+
+- 6944691: Consolidates the polaris url into a single, shared variable
+
 ## 1.2.1
 
 ### Patch Changes
